@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2991677596
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 49b45cb5ca0aac799ab18739b34119c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Icons/quillen.jpg
+- Assets/Icons/focus.png
+- Assets/Icons/strike1.png
+- Assets/Icons/strike2.png
+Dependencies: []

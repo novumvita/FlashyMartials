@@ -1,0 +1,11 @@
+{
+  "Id": "FlashyMartials",
+  "DisplayName": "Flashy Martials",
+  "Author": "Zedel",
+  "Version": "0.0.1",
+  "ManagerVersion": "0.21.3",
+  "Requirements": [],
+  "AssemblyName": "FlashyMartials.dll",
+  "EntryMethod": "FlashyMartials.Main.Load"
+}
+

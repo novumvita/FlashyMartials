@@ -1,0 +1,90 @@
+[
+  {
+    "Key": "SheathedBladeClass.Name",
+    "ProcessTemplates": false,
+    "enGB": "Path of the Perfect Strike"
+  },
+  {
+    "Key": "SheathedBladeClass.Description",
+    "enGB": "Followers of the Path of the Perfect Strike train their speed and precision, seeking to dispatch their opponenents in a single perfect strike."
+  },
+  {
+    "Key": "LethalFocus.Name",
+    "ProcessTemplates": false,
+    "enGB": "Lethal Focus"
+  },
+  {
+    "Key": "LethalFocus.Description",
+    "enGB": "At 7th level, you gain a bonus to weapon damage equal to your Wisdom modifier against flat-footed enemies."
+  },
+  {
+    "Key": "Insight.Name",
+    "ProcessTemplates": false,
+    "enGB": "Insight"
+  },
+  {
+    "Key": "Insight.Description",
+    "enGB": "At 1st level, gain a pool of Insight, a number of points equal to your Wisdom modifier. You may spend insight to quicken your actions."
+  },
+  {
+    "Key": "PerfectedStrike.Name",
+    "ProcessTemplates": false,
+    "enGB": "Perfect Focus"
+  },
+  {
+    "Key": "PerfectedStrike.Description",
+    "enGB": "At 10th level, Lightning Strike and Perfect Strike treat your target as flat-footed."
+  },
+  {
+    "Key": "QuickStrike.Name",
+    "ProcessTemplates": false,
+    "enGB": "Perfect Strike"
+  },
+  {
+    "Key": "QuickStrikeQuick.Name",
+    "ProcessTemplates": false,
+    "enGB": "Perfect Strike (Quickened)"
+  },
+  {
+    "Key": "LongStrike.Name",
+    "ProcessTemplates": false,
+    "enGB": "Lightning Strike"
+  },
+  {
+    "Key": "LongStrikeQuick.Name",
+    "ProcessTemplates": false,
+    "enGB": "Lightning Strike (Quickened)"
+  },
+  {
+    "Key": "QuickStrike.Description",
+    "enGB": "At 7th level, you can perform a quick strike to inflict devastating damage. Multiply your damage, including any bonuses that would be multiplied on a critical hit, by the number of attacks you may make on a full attack."
+  },
+  {
+    "Key": "LongStrike.Description",
+    "enGB": "At 4th level, you can perform a lightning quick strike with increased range."
+  },
+  {
+    "Key": "SheathedBlade.Name",
+    "ProcessTemplates": false,
+    "enGB": "Focused"
+  },
+  {
+    "Key": "SheathedBlade.Description",
+    "enGB": "At 1st level, you gain the ability to focus. While focused, you add your Wisdom modifier to attack rolls. You start combat focused. Attacking breaks focus."
+  },
+  {
+    "Key": "SheatheAbility.Name",
+    "ProcessTemplates": false,
+    "enGB": "Focus"
+  },
+  {
+    "Key": "SheatheAbility.Description",
+    "enGB": "At 1st level, you may focus."
+  },
+  {
+    "Key": "SheatheAbilityQuick.Name",
+    "ProcessTemplates": false,
+    "enGB": "Focus (Quickened)"
+  }
+
+]
