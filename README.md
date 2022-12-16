@@ -4,7 +4,7 @@ Adds homebrew martial classes that can do more than just run up to people and hi
 
 ## Featuring
 
-Sheathed Blade
+Path of the Perfect Strike
 
 ## Thanks to  
 -   Wolfie's [Modding Wiki](https://github.com/WittleWolfie/OwlcatModdingWiki/wiki) for getting me started.
