@@ -57,11 +57,11 @@
   },
   {
     "Key": "QuickStrike.Description",
-    "enGB": "At 7th level, you can perform a quick strike to inflict devastating damage. Multiply your damage, including any bonuses that would be multiplied on a critical hit, by the number of attacks you may make on a full attack."
+    "enGB": "At 7th level, you can perform a quick strike to inflict devastating damage while focused. Multiply your damage, including any bonuses that would be multiplied on a critical hit, by the number of attacks you may make on a full attack."
   },
   {
     "Key": "LongStrike.Description",
-    "enGB": "At 4th level, you can perform a lightning quick strike with increased range."
+    "enGB": "At 4th level, you can perform a lightning quick strike with increased range while focused."
   },
   {
     "Key": "SheathedBlade.Name",
