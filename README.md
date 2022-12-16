@@ -4,9 +4,9 @@ Adds homebrew martial classes that can do more than just run up to people and hi
 
 ## Featuring
 
-###Path of the Perfect Strike
+### Path of the Perfect Strike
 
-####1st level 
+#### 1st level 
 - You gain the ability to focus. While focused, you add your Wisdom modifier to attack rolls. You start combat focused. Attacking breaks focus.
 - You gain a pool of Insight, a number of points equal to your Wisdom modifier. You may spend insight to quicken your actions.
 
